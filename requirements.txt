@@ -1,0 +1,22 @@
+# Django
+Django
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+python-dotenv
+
+# AI and LLM
+openai
+langchain
+langchain-core
+langchain-openai
+langgraph
+
+# Vector Database
+chromadb
+
+# Document Processing
+pypdf
+
+# Web Search
+ddgs
